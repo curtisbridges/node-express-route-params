@@ -1,3 +1,7 @@
-### ping
+### root
 GET http://localhost:3000
+Content-Type: application/json
+
+### root
+GET http://localhost:3000/curtis/bridges
 Content-Type: application/json
